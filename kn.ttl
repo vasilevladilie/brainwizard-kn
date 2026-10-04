@@ -1,4 +1,4 @@
-@prefix kn:      <https://ivy.example/kn#> .
+@prefix kn:      <https://w3id.org/brainwizard/kn#> .
 @prefix owl:     <http://www.w3.org/2002/07/owl#> .
 @prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
@@ -12,9 +12,9 @@
 #    Ontology header
 #################################################################
 
-<https://ivy.example/kn> a owl:Ontology ;
-    owl:versionIRI <https://ivy.example/kn/0.3.4> ;
-    owl:priorVersion <https://ivy.example/kn/0.3.3> ;
+<https://w3id.org/brainwizard/kn> a owl:Ontology ;
+    owl:versionIRI <https://w3id.org/brainwizard/kn/0.3.4> ;
+    owl:priorVersion <https://w3id.org/brainwizard/kn/0.3.3> ;
     owl:versionInfo "0.3.4" ;
     rdfs:label "Vocabular BrainWizard pentru notițe de cercetare"@ro ,
                "BrainWizard research notes vocabulary"@en ;
